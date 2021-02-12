@@ -1,0 +1,22 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "HSCSI 211 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stan000/web-app.git"
+  },
+  "author": "Stan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stan000/web-app/issues"
+  },
+  "homepage": "https://github.com/stan000/web-app#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
